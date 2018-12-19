@@ -1,6 +1,7 @@
 # Music-Store-Library
 Allowing user to purchase music from library. Allowing the user to view subscription information. The user should be able to see the total monthly, annual, or one-time subscriptions.
 
+Using class library projects. 
 
 ## Prerequirements
 
